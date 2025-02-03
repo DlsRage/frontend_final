@@ -1,0 +1,24 @@
+#navigation {
+  display: flex;
+  justify-content: space-between;
+  background-color: antiquewhite;
+  align-items: center;
+  padding: 0 40px;
+}
+
+#navigation ul {
+  display: flex;
+  list-style: none;
+  gap: 50px;
+  padding: 0;
+  margin: 0;
+}
+
+#navigation li {
+  display: inline-block;
+  text-decoration: none;
+}
+
+#navigation a {
+  text-decoration: none;
+}
